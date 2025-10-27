@@ -13,10 +13,8 @@
 function makeNegative(num) {
     if (num) {
         return -Math.abs(num);
-    } else if (num === false) {
+    } else if (num === false || num === 0) {
         return num;
-    } else {
-        console.log("Zero (0) is not checked for any specific sign.")
     }
 }
 
