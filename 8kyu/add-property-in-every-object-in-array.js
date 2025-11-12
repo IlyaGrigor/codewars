@@ -50,3 +50,8 @@ function addNewProperty(array, property, value) {
 
 const result = addNewProperty(questions, "usersAnswer", null);
 console.log(result);
+
+// questions.forEach(function (i) {
+//     i.usersAnswer = null;
+// });
+// ЧУЖОЕ РЕШЕНИЕ НА ЗАЦЕН
