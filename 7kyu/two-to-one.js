@@ -24,4 +24,37 @@ function longest(s1, s2) {
 }
 
 let result = longest(a, b);
-console.log(result);
+console.log(result)
+
+
+
+
+
+
+
+
+
+
+// function litres(time) {
+//     return Math.floor(time * 0.5)
+// }
+//
+// const resultin = litres(3);
+// console.log(resultin);
+
+
+
+
+
+
+
+
+
+// const reverseSeq = n => {
+//     if (n < 0) {
+//         for (i = 5; i >= 1; i--) {
+//             newArray.push(i)
+//         }
+//     }
+//     return newArray;
+}
